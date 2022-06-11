@@ -41,7 +41,5 @@ public class Exercise1 {
         }
         //Si al final del algoritmo la pila esta vacia,significa que s esta balanceado, de otro modo s no esta balanceado
         return stack.isEmpty();
-
-        return false;
     }
 }
